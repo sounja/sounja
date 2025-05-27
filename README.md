@@ -1,7 +1,35 @@
-## I'm Soun-Ja 👋
+# 👋 Welcome! I'm Soun-Ja Walters.
 
-I will be starting my PhD in Applied Statistics in the Fall of 2025. I really want to apply all the theory I am learning to real problems. To accomplish this, I am doubling down on learning Python and R.
+I'm an aspiring data scientist and applied statistics PhD student with a background in physics and secondary math education. 
 
-I am a proud cat lady 😸 and hope to build something that will one day improve the lives of cats and kittens in my community.
+---
+
+## 🧠 About Me
+
+- 🎓 Master's in Statistics & Data Science (May 2025)
+- 📚 Starting a PhD in Applied Statistics, Fall 2025
+- 👩🏽‍🏫 Former high school math teacher with nearly a decade of experience
+- 🐱 Advocate for feral cat welfare and TNR (Trap, Neuter, Return) programs (I have personally TNR'd 50+ cats and counting!)
+- 💡 Passionate about using data for social good and impactful storytelling
+
+---
+
+## 📊 Current Interests
+
+- Hard-to-count population estimation (e.g., feral cats, underserved groups)
+- Bayesian statistics
+- Probability Distributions
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: soun-ja.walters@my.utsa.edu
+- 💼 LinkedIn: [linkedin.com/in/sounja](https://www.linkedin.com/in/soun-ja-walters/)
+- 🐈 Ask me about cat rescue stories!
+
+---
+
+> “All models are wrong, but some are useful.” – George Box
 
 
