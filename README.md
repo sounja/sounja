@@ -22,6 +22,19 @@ I'm an aspiring data scientist and applied statistics PhD student with a backgro
 
 ---
 
+## 🌱 This Repository
+
+This is my personal GitHub space where I’ll share new projects, explore ideas, and document my learning journey. Upcoming content may include:
+
+- Applied statistics research and methods
+- Reproducible workflows in R and Python
+- Geospatial data visualization
+- Explorations in Bayesian inference
+
+Stay tuned as I build this portfolio over time.
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 Email: soun-ja.walters@my.utsa.edu
