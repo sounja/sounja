@@ -26,6 +26,7 @@ I'm an aspiring data scientist and applied statistics PhD student with a backgro
 
 This is my personal GitHub space where I’ll share new projects, explore ideas, and document my learning journey. Upcoming content may include:
 
+- DataCamp Projects
 - Applied statistics research and methods
 - Reproducible workflows in R and Python
 - Geospatial data visualization
