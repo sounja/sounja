@@ -17,7 +17,6 @@ I'm an aspiring data scientist and applied statistics PhD student with a backgro
 ## 📊 Current Interests
 
 - Hard-to-count population estimation (e.g., feral cats, underserved groups)
-- Bayesian statistics
 - Probability Distributions
 
 ---
